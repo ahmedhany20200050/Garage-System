@@ -1,0 +1,3 @@
+interface TaskController{
+    void executeTask();
+}
